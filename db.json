@@ -25,48 +25,979 @@
     "transactions": [
 
     ],
-    "data":[
-        {
-            "id":1,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter 3",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1000,
-            "borrowed": false
-            },{
-                "id":2,
-                "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                "book_name": "Harry Potter 4",
-                "author": "J. K. Rowling",
-                "genre": "fiction",
-                "edition": "2021",
-                "publisher": "Bloomsbury",
-                "cost": 1499,
-                "borrowed": false
-                },{
-                    "id":3,
-                    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                    "book_name": "Harry Potter 2",
-                    "author": "J. K. Rowling",
-                    "genre": "fiction",
-                    "edition": "2021",
-                    "publisher": "Bloomsbury",
-                    "cost": 1299,
-                    "borrowed": false
-                    },{
-                        "id":4,
-                        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                        "book_name": "Harry Potter ",
-                        "author": "J. K. Rowling",
-                        "genre": "fiction",
-                        "edition": "2021",
-                        "publisher": "Bloomsbury",
-                        "cost": 1999,
-                        "borrowed": false
-                        }
+    "data":[{
+    "id": 1,
+    "name": "Mens Casual Premium Slim Fit T-Shirts ",
+    "size": 32,
+    "price": 22.3,
+    "categories": "men's clothing",
+    "discount": "Discounted-items",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691819-7362727.jpg?auto=format&w=239.8125",
+      "https://imagescdn.abof.com/img/app/product/6/691819-7362727.jpg?auto=format&w=239.8125"
+    ],
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "name": "Mens Cotton Jacket",
+    "size": 34,
+    "price": 55.99,
+    "categories": "men's clothing",
+    "discount": "Discounted-items",
+    "avatar": [
+      "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    ],
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    },
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "Mens Casual Slim Fit",
+    "size": 34,
+    "price": 15.99,
+    "categories": "men's clothing",
+    "discount": "Discounted-items",
+    "avatar": [
+      "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+    ],
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    },
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "name": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+    "size": 32,
+    "price": 56.99,
+    "categories": "women's clothing",
+    "discount": "Discounted-items",
+    "avatar": [
+      "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+    ],
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    },
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "name": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+    "size": 32,
+    "price": 29.95,
+    "categories": "women's clothing",
+    "discount": "Discounted-items",
+    "avatar": [
+      "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+    ],
+    "rating": {
+      "rate": 2.9,
+      "count": 340
+    },
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "name": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+    "size": 34,
+    "price": 39.99,
+    "categories": "women's clothing",
+    "discount": "Discounted-items",
+    "avatar": [
+      "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+    ],
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    },
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "name": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+    "size": 34,
+    "price": 9.85,
+    "categories": "women's clothing",
+    "discount": "Discounted-items",
+    "avatar": [
+      "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+    ],
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    },
+    "quantity": 1
+  },
+  {
+    "id": 8,
+    "name": "Opna Women's Short Sleeve Moisture",
+    "size": 34,
+    "price": 7.95,
+    "categories": "women's clothing",
+    "discount": "Discounted-items",
+    "avatar": [
+      "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+    ],
+    "rating": {
+      "rate": 4.5,
+      "count": 146
+    },
+    "quantity": 1
+  },
+  {
+    "id": 9,
+    "name": "DANVOUY Womens T Shirt Casual Cotton Short",
+    "size": 34,
+    "price": 12.99,
+    "categories": "women's clothing",
+    "discount": "Discounted-items",
+    "avatar": [
+      "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+    ],
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    },
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit Shorts",
+    "size": 34,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691806-7362571.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "shorts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "10",
+    "price": 509,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit Shorts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691811-7362631.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "shorts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "11",
+    "price": 509,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit Shorts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691812-7362643.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "shorts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "12",
+    "price": 509,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit Shorts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691807-7362583.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "shorts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "13",
+    "price": 509,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit Shorts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691794-7362429.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "shorts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "14",
+    "price": 509,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit Shorts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691807-7362583.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "shorts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "15",
+    "price": 319,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit Shorts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691796-7362453.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "shorts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "16",
+    "price": 509,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691819-7362727.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "T-Shirts",
+    "id": "17",
+    "price": 509,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691816-7362688.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "T-Shirts",
+    "id": "18",
+    "price": 509,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "size": 34,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689636-7332370.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "T-Shirts",
+    "id": "19",
+    "price": 299,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691820-7362740.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "T-Shirts",
+    "id": "20",
+    "price": 299,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691815-7362675.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "T-Shirts",
+    "id": "21",
+    "price": 305,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691822-7362763.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "T-Shirts",
+    "id": "22",
+    "price": 555,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691831-7362852.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "T-Shirts",
+    "id": "23",
+    "price": 555,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts and Track Pants",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691857-7363177.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Track-Pants",
+    "id": "24",
+    "price": 419,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts and Track Pants",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "size": 34,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691833-7362881.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Track-Pants",
+    "id": "25",
+    "price": 419,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit Track Pants",
+    "size": 34,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689658-7332548.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "Track-Pants",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "id": "26",
+    "price": 359,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit Track Pants",
+    "size": 34,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689658-7332548.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "Track-Pants",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "id": "27",
+    "price": 419,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts and Track Pants",
+    "size": 34,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691857-7363177.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Track-Pants",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "id": "28",
+    "price": 419,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit Shorts",
+    "size": 34,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/7/722273-7998170.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "shorts",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "id": "29",
+    "price": 509,
+    "quantity": 1
+  },
+  {
+    "name": "Girls Regular Fit shorts",
+    "size": 34,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691790-7362394.jpg?auto=format&w=117"
+    ],
+    "categories": "Girls-shorts",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "id": "30",
+    "price": 509,
+    "quantity": 1
+  },
+  {
+    "name": "Girls Regular Fit shorts",
+    "size": 34,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691791-7362404.jpg?auto=format&w=117"
+    ],
+    "categories": "Girls-shorts",
+    "discount": "Non-Discounted-items",
+    "type": "Boykid",
+    "id": "31",
+    "price": 599,
+    "quantity": 1
+  },
+  {
+    "name": "Girls Regular Fit shorts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689485-7331203.JPG?auto=format&w=117"
+    ],
+    "categories": "Girls-shorts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "32",
+    "price": 599,
+    "quantity": 1
+  },
+  {
+    "name": "Girls Regular Fit shorts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/7/722189-7997515.JPG?auto=format&w=117"
+    ],
+    "categories": "Girls-shorts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "33",
+    "price": 599,
+    "quantity": 1
+  },
+  {
+    "name": "Girls Regular Fit shorts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689519-7331472.JPG?auto=format&w=117"
+    ],
+    "categories": "Girls-shorts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "34",
+    "price": 588,
+    "quantity": 1
+  },
+  {
+    "name": "Girls Regular Fit shorts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689520-7331479.JPG?auto=format&w=117"
+    ],
+    "categories": "Girls-shorts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "35",
+    "price": 555,
+    "quantity": 1
+  },
+  {
+    "name": "Girls Regular Fit shorts",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/7/722198-7997601.jpg?auto=format&w=117"
+    ],
+    "categories": "Girls-shorts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "size": 32,
+    "id": "36",
+    "price": 522,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689446-7330849.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 32,
+    "id": "37",
+    "price": 599,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691820-7362740.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "T-Shirts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "38",
+    "price": 299,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691815-7362675.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "T-Shirts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "39",
+    "price": 305,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691822-7362763.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "T-Shirts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "40",
+    "price": 555,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691831-7362852.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "T-Shirts",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "41",
+    "price": 555,
+    "quantity": 1
+  },
+  {
+    "name": "Boys Regular Fit T-Shirts and Track Pants",
+    "size": 32,
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/691857-7363177.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Track-Pants",
+    "discount": "Discounted-items",
+    "type": "Boykid",
+    "id": "42",
+    "price": 419,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689463-7331000.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 32,
+    "id": "43",
+    "price": 794,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/7/722094-7996666.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 32,
+    "id": "44",
+    "price": 894,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689459-7330965.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 32,
+    "id": "45",
+    "price": 994,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689444-7330831.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "id": "46",
+    "price": 1094,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689471-7331072.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 34,
+    "id": "47",
+    "price": 2569,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689474-7331100.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 34,
+    "id": "48",
+    "price": 569,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689467-7331036.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 34,
+    "id": "49",
+    "price": 589,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689465-7331018.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 34,
+    "id": "50",
+    "price": 689,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689440-7330796.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 34,
+    "id": "51",
+    "price": 706,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/7/755373-8608541.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 32,
+    "id": "52",
+    "price": 706,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/7/721798-7989460.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "type": "jeans",
+    "size": 32,
+    "id": "53",
+    "price": 899,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689473-7331090.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 34,
+    "id": "54",
+    "price": 899,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689446-7330849.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "type": "jeans",
+    "size": 32,
+    "id": "55",
+    "price": 599,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689463-7331000.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 32,
+    "id": "56",
+    "price": 794,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/7/722094-7996666.jpg?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "type": "jeans",
+    "size": 32,
+    "id": "57",
+    "price": 894,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689459-7330965.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 32,
+    "id": "58",
+    "price": 994,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689444-7330831.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "id": "59",
+    "price": 1094,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689471-7331072.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 34,
+    "id": "60",
+    "price": 2569,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689474-7331100.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 34,
+    "id": "61",
+    "price": 569,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689467-7331036.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 34,
+    "id": "62",
+    "price": 589,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689465-7331018.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 34,
+    "id": "63",
+    "price": 689,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689440-7330796.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 34,
+    "id": "64",
+    "price": 706,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/7/755373-8608541.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 32,
+    "id": "65",
+    "price": 706,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/7/721798-7989460.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 32,
+    "id": "66",
+    "price": 899,
+    "quantity": 1
+  },
+  {
+    "name": "Men Slim Fit Jeans",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689473-7331090.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "Jeans",
+    "discount": "Discounted-items",
+    "type": "jeans",
+    "size": 34,
+    "id": "67",
+    "price": 899,
+    "quantity": 1
+  },
+  {
+    "name": "Girls Regular Fit shorts",
+    "avatar": [
+      "https://m.media-amazon.com/images/I/91MX1fF0vBL._AC_UL640_FMwebp_QL65_.jpg"
+    ],
+    "categories": "Girls-shorts",
+    "id": "68",
+    "price": "599",
+    "size": "35",
+    "discount": "Non-Discounted-items",
+    "rating": {
+      "rate": "4",
+      "count": "100"
+    },
+    "quantity": 1
+  },
+  {
+    "name": "Girl's Cotton Shorts",
+    "avatar": [
+      "https://m.media-amazon.com/images/I/71u7aOjjNIL._AC_UL640_FMwebp_QL65_.jpg"
+    ],
+    "categories": "Girls-shorts",
+    "id": "69",
+    "price": "400",
+    "size": "34",
+    "discount": "discounted-items",
+    "rating": {
+      "rate": "4.3",
+      "count": "99"
+    },
+    "quantity": 1
+  },
+  {
+    "name": "Girl's Regular Shorts",
+    "avatar": [
+      "https://m.media-amazon.com/images/I/71QbCcukVzL._AC_UL640_FMwebp_QL65_.jpg"
+    ],
+    "categories": "Girls-shorts",
+    "id": "70",
+    "price": "499",
+    "size": "34",
+    "discount": "discounted-items",
+    "rating": {
+      "rate": "4.3",
+      "count": "200"
+    },
+    "quantity": 1
+  },
+  {
+    "name": "Ashsih Meel",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689473-7331090.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "men's clothing",
+    "id": "71",
+    "price": "66.99",
+    "size": "20",
+    "discount": "discounted-items",
+    "rating": {
+      "rate": "4.3",
+      "count": "200"
+    }
+  },
+  {
+    "name": "Aman",
+    "avatar": [
+      "https://imagescdn.abof.com/img/app/product/6/689473-7331090.JPG?auto=format&w=239.8125"
+    ],
+    "categories": "men's clothing",
+    "id": "72",
+    "price": "66.99",
+    "size": "20",
+    "discount": "discounted-items",
+    "rating": {
+      "rate": "4.3",
+      "count": "259"
+    }
+  }
+       
 ]
     
 
